@@ -1,7 +1,7 @@
 ##  Hello! I am Felipe Oliveira.
 
-- 🔭 I currently work with Dashboard creation
-- 🌱 Study Data Analysis
+- 🔭 I currently work with Data Analytics
+- 🌱 Studying Data Science
 - 💬 I love to talk about technology and education
 - 📫 E-mail me at olivesilva.felipe@gmail.com
 - 😄 Pronouns: He/Him
