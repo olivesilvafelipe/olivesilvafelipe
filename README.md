@@ -1,13 +1,13 @@
-##  Olá! Eu sou o Felipe Oliveira
+##  Hello! I am Felipe Oliveira.
 
-- 🔭 Hoje trabalho com Criação de Dashboards
-- 🌱 Estudando Análise de Dados
-- 💬 Adoro conversar sobre Educação
-- 📫 Contate-me no e-mail: olivesilva.felipe@gmail.com
+- 🔭 I currently work with Dashboard creation
+- 🌱 Study Data Analysis
+- 💬 I love to talk about technology and education
+- 📫 E-mail me at olivesilva.felipe@gmail.com
 - 😄 Pronouns: ele/dele
 ##  
 
-### Tecnologias e Ferramentas:
+### Technologies and Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
@@ -16,7 +16,7 @@
 
 ## 
 
-### Contatos:
+### Contact:
 
 
 <div>
